@@ -1,0 +1,12 @@
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\bin\Debug\应用程序界面显示在分屏幕上.exe.config
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\bin\Debug\应用程序界面显示在分屏幕上.exe
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\bin\Debug\应用程序界面显示在分屏幕上.pdb
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.csproj.AssemblyReference.cache
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.Form1.resources
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.Properties.Resources.resources
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.csproj.GenerateResource.cache
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.csproj.CoreCompileInputs.cache
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.exe
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.pdb
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.Form2.resources
+D:\C#\基础加深\应用程序界面显示在分屏幕上\应用程序界面显示在分屏幕上\obj\Debug\应用程序界面显示在分屏幕上.PicSlideForm.resources
