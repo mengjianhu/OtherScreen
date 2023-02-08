@@ -38,7 +38,8 @@ namespace 应用程序界面显示在分屏幕上
         private void button2_Click(object sender, EventArgs e)
         {
 
-            //Screen CurrentScreen = Screen.FromControl(this);
+            Screen CurrentScreen = Screen.FromControl(this);
+           MessageBox.Show(CurrentScreen.ToString());
         }
 
 
