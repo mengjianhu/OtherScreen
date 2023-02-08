@@ -16,7 +16,7 @@ namespace 应用程序界面显示在分屏幕上
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new  PicSlideForm());
+            Application.Run(new  Form3());
         }
     }
 }
